@@ -1,0 +1,16 @@
+0/VFG7689/BMW/SUV/available/2000.0
+1/SDF3490/Nissan/Hatchback/available/3000.0
+2/SAF3332/Volkswagen/SUV/available/3000.0
+3/PLS4958/Honda/SUV/available/4000.0
+4/AFD3351/Suzuki/SUV/available/5000.0
+5/QWE3432/Tesla/Minivan/available/7600.0
+6/XVB6567/Toyota/Coupe/available/9000.0
+7/MYR4616/Ford/SportsCar/available/3200.0
+8/TDS9015/Subaru/Pick-upTruck/available/8000.0
+9/WHV4732/Benz/SUV/available/6000.0
+10/GHY5353/Suzuki/SportsCar/available/7000.0
+11/PRA2178/Nissan/Coupe/available/7200.0
+12/CKS4592/Suzuki/Minivan/available/5000.0
+13/VNS6538/Toyota/Hatchback/available/8000.0
+14/AVJ5738/BMW/SportsCar/available/8800.0
+15/LXA/Honda/Pick-upTruck/available/6500.0
